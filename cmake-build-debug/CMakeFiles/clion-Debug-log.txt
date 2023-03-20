@@ -1,0 +1,2 @@
+/usr/bin/ccmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/cmake -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/gcc -G "CodeBlocks - Unix Makefiles" -S /home/benm/repos/c/blemderer -B /home/benm/repos/c/blemderer/cmake-build-debug
+Error opening terminal: unknown.
